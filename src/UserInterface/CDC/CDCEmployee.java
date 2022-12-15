@@ -16,7 +16,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author akash
+ * @author mayur
  */
 public class CDCEmployee extends javax.swing.JPanel {
 
@@ -120,7 +120,7 @@ public class CDCEmployee extends javax.swing.JPanel {
         jSplitPane1.setRightComponent(workContainer);
 
         add(jSplitPane1, java.awt.BorderLayout.CENTER);
-    }// </editor-fold>//GEN-END:initComponents
+    }// </editor-fold>//GEN-END:initComponents //border
 
     private void btn2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn2ActionPerformed
         // TODO add your handling code here:
