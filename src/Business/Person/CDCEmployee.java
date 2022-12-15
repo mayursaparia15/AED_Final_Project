@@ -8,7 +8,7 @@ package Business.Person;
 
 /**
  *
- * @author akash
+ * @author mayur
  */
 
 //Creating class CDCEmployee that extends Person
