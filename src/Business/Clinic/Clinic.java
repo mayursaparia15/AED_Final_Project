@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author akash
+ * @author mayur
  */
 //Initializing Clinic Class
 public class Clinic {
