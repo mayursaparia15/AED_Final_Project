@@ -15,7 +15,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author vinithiteshharsora
+ * @author keyur
  */
 public class AddNewDiseaseInfoJPanel extends javax.swing.JPanel {
 
