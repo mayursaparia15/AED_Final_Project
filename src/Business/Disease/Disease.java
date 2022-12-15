@@ -10,7 +10,7 @@ import java.util.Date;
 
 /**
  *
- * @author vinithhiteshharsora
+ * @author mayur
  */
 //initializing Disease class with some variables
 public class Disease {
