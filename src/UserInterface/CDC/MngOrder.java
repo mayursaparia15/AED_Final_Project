@@ -191,7 +191,7 @@ public class MngOrder extends javax.swing.JPanel {
             JOptionPane.showMessageDialog(null, "Kindly select an Order from table first !");
             return;
         }
-
+// regex
         ProviderVaccineOrderWorkRequest request = (ProviderVaccineOrderWorkRequest)tblorder.getValueAt(selectedRow, 0);
 
         AppOrder panel = new AppOrder(workContainer, userAccount, cdcEnterprise,cdcOrg, business, request);
