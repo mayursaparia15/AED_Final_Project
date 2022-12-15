@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author akash
+ * @author deep
  */
 public class ViewInventoryJPanel extends javax.swing.JPanel {
 
