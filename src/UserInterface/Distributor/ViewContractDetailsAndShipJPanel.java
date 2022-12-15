@@ -32,7 +32,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author akash
+ * @author deep
  */
 public class ViewContractDetailsAndShipJPanel extends javax.swing.JPanel {
 
