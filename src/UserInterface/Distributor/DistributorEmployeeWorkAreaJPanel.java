@@ -15,7 +15,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author akash
+ * @author mayur
  */
 public class DistributorEmployeeWorkAreaJPanel extends javax.swing.JPanel {
 
@@ -212,7 +212,7 @@ public class DistributorEmployeeWorkAreaJPanel extends javax.swing.JPanel {
     }//GEN-LAST:event_btn3ActionPerformed
 
 
-    // Variables declaration - do not modify//GEN-BEGIN:variables
+    // Variables declaration - do not modify//GEN-BEGIN:variables 
     private javax.swing.JButton btn1;
     private javax.swing.JButton btn2;
     private javax.swing.JButton btn3;
