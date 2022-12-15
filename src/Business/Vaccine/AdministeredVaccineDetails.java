@@ -12,7 +12,7 @@ import java.util.Date;
 
 /**
  *
- * @author akash
+ * @author mayur
  */
 
 //Initialing class AdministeredVaccineDetails
