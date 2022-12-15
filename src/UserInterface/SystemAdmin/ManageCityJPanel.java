@@ -16,7 +16,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author vinithiteshharsora
+ * @author keyurmodi
  */
 public class ManageCityJPanel extends javax.swing.JPanel {
 
